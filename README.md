@@ -1,0 +1,1 @@
+This is a simple number counter app. The user can provide any number of their choice, and the app will either increment or decrement the initial number by the provided value, displaying the result on the UI
